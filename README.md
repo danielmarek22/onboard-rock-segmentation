@@ -6,6 +6,6 @@ The Training-Pipeline file containes all the code for training and evaluating mo
 
 The Mars-Data-Exploration file contains the code for processing and running the previously prepared models.
 
-Link for the first data set: https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset
+Link to the Artifical Lunar Landscape Dataset: https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset
 
-Link for the MarsData data set: https://github.com/CVIR-Lab/MarsData
+Link to the MarsData data set: https://github.com/CVIR-Lab/MarsData
