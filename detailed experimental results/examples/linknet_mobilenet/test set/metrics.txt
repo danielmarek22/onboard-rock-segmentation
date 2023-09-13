@@ -1,0 +1,8 @@
+MPA:  0.75322556
+MPA compressed:  0.75148535
+Dice:  0.7879997690702513
+Dice compressed:  0.7869873568948662
+IoU:  0.3456205
+IoU compressed:  0.3430108
+Rmse:  0.7742295
+Rmse compressed:  0.77540064
